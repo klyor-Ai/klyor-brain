@@ -1,0 +1,27 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.log
+.DS_Store
+.cache/
+.pytest_cache/
+.mypy_cache/
+
+# Model weights
+*.safetensors
+*.bin
+*.gguf
+models/*
+!models/.gitkeep
+
+# Training outputs
+outputs/
+checkpoints/
+wandb/
+runs/
+
+# Dataset artifacts
+*.parquet
+*.arrow

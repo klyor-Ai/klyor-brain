@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A modern personal portfolio website.">
+  <title>Trevon | Developer Portfolio</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="logo" href="#top" aria-label="Trevon home">
+      <svg class="brand-mark" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3 3 8l9 5 9-5-9-5Zm-7 9 7 4 7-4M5 16l7 4 7-4" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      <span>Trevon</span>
+    </a>
+    <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="site-nav" aria-label="Open navigation"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg></button>
+    <nav id="site-nav" aria-label="Main navigation"><a href="#about">About</a><a href="#skills">Skills</a><a href="#projects">Projects</a><a href="#contact">Contact</a></nav>
+  </header>
+  <main id="top">
+    <section class="hero shell" aria-labelledby="hero-title"><div><p class="eyebrow">Developer · Builder · Problem solver</p><h1 id="hero-title">I build digital products with <em>clarity.</em></h1><p class="hero-lede">A modern personal portfolio website. I turn thoughtful ideas into fast, accessible experiences made to last.</p><div class="hero-actions"><a class="button primary" href="#projects">View projects <span aria-hidden="true">↗</span></a><a class="button quiet" href="#contact">Let's talk</a></div></div><div class="code-window" role="img" aria-label="Developer code illustration"><div class="window-bar"><i></i><i></i><i></i><span>trevon.js</span></div><pre><code><b>const</b> ideas = <i>"worth building"</i>;
+
+<b>function</b> makeItReal(ideas) {
+  <b>return</b> ideas.ship();
+}</code></pre></div></section>
+    <section id="about" class="section shell"><p class="eyebrow">01 / About</p><div class="split"><h2>Making complex things feel simple.</h2><p>I care about the details people notice and the foundations they don't. My work balances expressive interfaces with dependable engineering.</p></div></section>
+    <section id="skills" class="section shell"><p class="eyebrow">02 / Skills</p><div class="skill-grid"><article><span>01</span><h3>Frontend</h3><p>HTML, CSS, JavaScript, responsive systems, accessibility and interaction design.</p></article><article><span>02</span><h3>Backend</h3><p>Python, APIs, data flows and practical systems that stay understandable.</p></article><article><span>03</span><h3>Product thinking</h3><p>Clear structure, useful feedback and interfaces that respect people's time.</p></article></div></section>
+    <section id="projects" class="section shell"><p class="eyebrow">03 / Selected projects</p><div class="project-list"><article><div><span>01 / Product</span><h3>Signal Desk</h3><p>A focused workspace for turning noisy information into clear next steps.</p></div><a href="#contact" aria-label="Ask about Signal Desk"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m7 17 10-10M8 7h9v9" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></a></article><article><div><span>02 / Web</span><h3>Open Studio</h3><p>A lightweight publishing system designed around calm, readable content.</p></div><a href="#contact" aria-label="Ask about Open Studio"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m7 17 10-10M8 7h9v9" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></a></article></div></section>
+    <section id="contact" class="section shell"><p class="eyebrow">04 / Contact</p><div class="contact-grid"><div><h2>Have a good problem?</h2><p>Tell me what you're building and where it feels stuck.</p></div><form id="contact-form" novalidate><label for="name">Name</label><input id="name" name="name" autocomplete="name" required><label for="email">Email</label><input id="email" name="email" type="email" autocomplete="email" required><label for="message">Message</label><textarea id="message" name="message" rows="4" required></textarea><button class="button primary" type="submit">Send message <span aria-hidden="true">↗</span></button><p id="form-message" role="status" aria-live="polite"></p></form></div></section>
+  </main>
+  <footer class="site-footer shell"><span>© 2026 Trevon</span><a href="#top">Back to top ↑</a></footer>
+  <script src="script.js"></script>
+</body>
+</html>

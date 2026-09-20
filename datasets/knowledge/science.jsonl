@@ -1,0 +1,55 @@
+{"concept": "physics", "domain": "science", "definition": "Physics studies matter, energy, motion, forces, space, time, and their interactions.", "source": "klyor_foundation"}
+{"concept": "force", "domain": "science", "definition": "A force is an interaction that can change an object's motion. In classical mechanics F = ma.", "source": "klyor_foundation"}
+{"concept": "mass", "domain": "science", "definition": "Mass measures an object's resistance to acceleration and contributes to gravitational interactions.", "source": "klyor_foundation"}
+{"concept": "weight", "domain": "science", "definition": "Weight is the gravitational force acting on an object.", "source": "klyor_foundation"}
+{"concept": "velocity", "domain": "science", "definition": "Velocity describes speed together with direction.", "source": "klyor_foundation"}
+{"concept": "acceleration", "domain": "science", "definition": "Acceleration is the rate of change of velocity.", "source": "klyor_foundation"}
+{"concept": "momentum", "domain": "science", "definition": "Momentum is the product of mass and velocity.", "source": "klyor_foundation"}
+{"concept": "energy", "domain": "science", "definition": "Energy is the capacity associated with causing change or performing work.", "source": "klyor_foundation"}
+{"concept": "kinetic energy", "domain": "science", "definition": "Kinetic energy is the energy associated with motion.", "source": "klyor_foundation"}
+{"concept": "potential energy", "domain": "science", "definition": "Potential energy is stored energy associated with position or configuration.", "source": "klyor_foundation"}
+{"concept": "work", "domain": "science", "definition": "In physics, work is energy transferred when a force causes displacement along the force.", "source": "klyor_foundation"}
+{"concept": "power", "domain": "science", "definition": "Power is the rate at which energy is transferred or work is performed.", "source": "klyor_foundation"}
+{"concept": "gravity", "domain": "science", "definition": "Gravity is an attractive interaction associated with mass and energy.", "source": "klyor_foundation"}
+{"concept": "electricity", "domain": "science", "definition": "Electricity involves electric charge, electric fields, current, voltage, and related phenomena.", "source": "klyor_foundation"}
+{"concept": "voltage", "domain": "science", "definition": "Voltage is electric potential difference.", "source": "klyor_foundation"}
+{"concept": "current", "domain": "science", "definition": "Electric current is the flow rate of electric charge.", "source": "klyor_foundation"}
+{"concept": "resistance", "domain": "science", "definition": "Electrical resistance describes opposition to current.", "source": "klyor_foundation"}
+{"concept": "magnetism", "domain": "science", "definition": "Magnetism is associated with moving electric charges, magnetic fields, and magnetic materials.", "source": "klyor_foundation"}
+{"concept": "wave", "domain": "science", "definition": "A wave is a propagating disturbance that transfers energy and information.", "source": "klyor_foundation"}
+{"concept": "frequency", "domain": "science", "definition": "Frequency is the number of repeating cycles occurring per unit time.", "source": "klyor_foundation"}
+{"concept": "wavelength", "domain": "science", "definition": "Wavelength is the distance between corresponding points on successive wave cycles.", "source": "klyor_foundation"}
+{"concept": "thermodynamics", "domain": "science", "definition": "Thermodynamics studies heat, temperature, work, energy, and transformations of energy.", "source": "klyor_foundation"}
+{"concept": "chemistry", "domain": "science", "definition": "Chemistry studies matter, its composition, properties, structure, and reactions.", "source": "klyor_foundation"}
+{"concept": "atom", "domain": "science", "definition": "An atom is the basic unit of an element, containing a nucleus and electrons.", "source": "klyor_foundation"}
+{"concept": "element", "domain": "science", "definition": "A chemical element consists of atoms with the same number of protons.", "source": "klyor_foundation"}
+{"concept": "molecule", "domain": "science", "definition": "A molecule consists of atoms chemically bonded together.", "source": "klyor_foundation"}
+{"concept": "ion", "domain": "science", "definition": "An ion is an atom or molecule with a net electric charge.", "source": "klyor_foundation"}
+{"concept": "isotope", "domain": "science", "definition": "Isotopes are atoms of the same element with different numbers of neutrons.", "source": "klyor_foundation"}
+{"concept": "chemical bond", "domain": "science", "definition": "A chemical bond is an interaction that holds atoms or ions together.", "source": "klyor_foundation"}
+{"concept": "ionic bond", "domain": "science", "definition": "An ionic bond results from electrostatic attraction between oppositely charged ions.", "source": "klyor_foundation"}
+{"concept": "covalent bond", "domain": "science", "definition": "A covalent bond involves atoms sharing electrons.", "source": "klyor_foundation"}
+{"concept": "acid", "domain": "science", "definition": "An acid is a substance that can donate protons or increase hydrogen ion concentration in appropriate aqueous models.", "source": "klyor_foundation"}
+{"concept": "base", "domain": "science", "definition": "A base can accept protons or increase hydroxide concentration in appropriate aqueous models.", "source": "klyor_foundation"}
+{"concept": "pH", "domain": "science", "definition": "pH is a logarithmic measure related to hydrogen ion concentration in aqueous solutions.", "source": "klyor_foundation"}
+{"concept": "biology", "domain": "science", "definition": "Biology studies living organisms and their structures, functions, evolution, and interactions.", "source": "klyor_foundation"}
+{"concept": "cell", "domain": "science", "definition": "A cell is the basic structural and functional unit of living organisms.", "source": "klyor_foundation"}
+{"concept": "DNA", "domain": "science", "definition": "DNA is a molecule that stores hereditary genetic information in living organisms.", "source": "klyor_foundation"}
+{"concept": "RNA", "domain": "science", "definition": "RNA is a nucleic acid involved in information transfer, regulation, and protein production.", "source": "klyor_foundation"}
+{"concept": "gene", "domain": "science", "definition": "A gene is a region of genetic material associated with a functional biological product or trait.", "source": "klyor_foundation"}
+{"concept": "protein", "domain": "science", "definition": "Proteins are biological molecules made from amino acids that perform many cellular functions.", "source": "klyor_foundation"}
+{"concept": "enzyme", "domain": "science", "definition": "An enzyme is a biological catalyst that speeds up chemical reactions without being consumed.", "source": "klyor_foundation"}
+{"concept": "photosynthesis", "domain": "science", "definition": "Photosynthesis converts light energy into chemical energy in organisms such as plants and algae.", "source": "klyor_foundation"}
+{"concept": "cellular respiration", "domain": "science", "definition": "Cellular respiration releases usable energy from molecules such as glucose.", "source": "klyor_foundation"}
+{"concept": "evolution", "domain": "science", "definition": "Biological evolution is change in inherited characteristics of populations across generations.", "source": "klyor_foundation"}
+{"concept": "ecosystem", "domain": "science", "definition": "An ecosystem includes organisms and their physical environment and the interactions between them.", "source": "klyor_foundation"}
+{"concept": "astronomy", "domain": "science", "definition": "Astronomy studies objects and phenomena beyond Earth's atmosphere.", "source": "klyor_foundation"}
+{"concept": "star", "domain": "science", "definition": "A star is a massive astronomical object that produces energy through processes in its interior.", "source": "klyor_foundation"}
+{"concept": "planet", "domain": "science", "definition": "A planet is an astronomical body orbiting a star or other stellar remnant and meeting the relevant classification criteria.", "source": "klyor_foundation"}
+{"concept": "galaxy", "domain": "science", "definition": "A galaxy is a gravitationally bound system containing stars, gas, dust, and other matter.", "source": "klyor_foundation"}
+{"concept": "black hole", "domain": "science", "definition": "A black hole is a region of spacetime from which matter and light cannot escape once inside its event horizon.", "source": "klyor_foundation"}
+{"concept": "earth science", "domain": "science", "definition": "Earth science studies Earth's structure, materials, atmosphere, oceans, processes, and history.", "source": "klyor_foundation"}
+{"concept": "plate tectonics", "domain": "science", "definition": "Plate tectonics describes the movement and interaction of large sections of Earth's lithosphere.", "source": "klyor_foundation"}
+{"concept": "water cycle", "domain": "science", "definition": "The water cycle describes the movement of water through evaporation, condensation, precipitation, runoff, and related processes.", "source": "klyor_foundation"}
+{"concept": "quantum physics", "domain": "science", "definition": "Quantum physics is the branch of physics that describes how matter and energy behave at very small scales, such as atoms and subatomic particles. It includes effects such as quantization, superposition, and quantum entanglement.", "source": "klyor_foundation"}
+{"concept": "quantum mechanics", "domain": "science", "definition": "Quantum mechanics is the theory used to describe the behaviour of matter and energy at atomic and subatomic scales.", "source": "klyor_foundation"}

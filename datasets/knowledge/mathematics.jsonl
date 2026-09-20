@@ -1,0 +1,68 @@
+{"concept": "number", "domain": "mathematics", "definition": "A number represents a quantity or mathematical value.", "source": "klyor_foundation"}
+{"concept": "integer", "domain": "mathematics", "definition": "An integer is a whole number that can be positive, negative, or zero.", "source": "klyor_foundation"}
+{"concept": "natural number", "domain": "mathematics", "definition": "Natural numbers are commonly the positive whole numbers, although conventions differ about including zero.", "source": "klyor_foundation"}
+{"concept": "rational number", "domain": "mathematics", "definition": "A rational number can be written as a ratio of two integers with a nonzero denominator.", "source": "klyor_foundation"}
+{"concept": "irrational number", "domain": "mathematics", "definition": "An irrational number cannot be expressed as a ratio of two integers.", "source": "klyor_foundation"}
+{"concept": "real number", "domain": "mathematics", "definition": "Real numbers include rational and irrational numbers and can be represented on the number line.", "source": "klyor_foundation"}
+{"concept": "complex number", "domain": "mathematics", "definition": "A complex number has the form a + bi, where i² = -1.", "source": "klyor_foundation"}
+{"concept": "addition", "domain": "mathematics", "definition": "Addition combines quantities. It is commonly represented with the + operator.", "source": "klyor_foundation"}
+{"concept": "subtraction", "domain": "mathematics", "definition": "Subtraction finds the difference between quantities.", "source": "klyor_foundation"}
+{"concept": "multiplication", "domain": "mathematics", "definition": "Multiplication represents repeated addition or scaling.", "source": "klyor_foundation"}
+{"concept": "division", "domain": "mathematics", "definition": "Division determines how one quantity is distributed or how many times one quantity fits into another.", "source": "klyor_foundation"}
+{"concept": "fraction", "domain": "mathematics", "definition": "A fraction represents a quantity using a numerator and denominator.", "source": "klyor_foundation"}
+{"concept": "numerator", "domain": "mathematics", "definition": "The numerator is the top part of a fraction.", "source": "klyor_foundation"}
+{"concept": "denominator", "domain": "mathematics", "definition": "The denominator is the bottom part of a fraction and cannot be zero.", "source": "klyor_foundation"}
+{"concept": "decimal", "domain": "mathematics", "definition": "A decimal represents a number using place values based on powers of ten.", "source": "klyor_foundation"}
+{"concept": "percentage", "domain": "mathematics", "definition": "A percentage represents a quantity out of 100.", "source": "klyor_foundation"}
+{"concept": "ratio", "domain": "mathematics", "definition": "A ratio compares quantities.", "source": "klyor_foundation"}
+{"concept": "proportion", "domain": "mathematics", "definition": "A proportion states that two ratios are equal.", "source": "klyor_foundation"}
+{"concept": "order of operations", "domain": "mathematics", "definition": "Order of operations determines how mathematical expressions are evaluated, including parentheses, exponents, multiplication/division, and addition/subtraction.", "source": "klyor_foundation"}
+{"concept": "variable", "domain": "mathematics", "definition": "A variable is a symbol representing a value that can change or an unknown value.", "source": "klyor_foundation"}
+{"concept": "constant", "domain": "mathematics", "definition": "A constant is a value that does not change within a given mathematical context.", "source": "klyor_foundation"}
+{"concept": "expression", "domain": "mathematics", "definition": "A mathematical expression combines values, variables, and operators.", "source": "klyor_foundation"}
+{"concept": "equation", "domain": "mathematics", "definition": "An equation states that two expressions are equal.", "source": "klyor_foundation"}
+{"concept": "inequality", "domain": "mathematics", "definition": "An inequality compares quantities using symbols such as <, >, ≤, or ≥.", "source": "klyor_foundation"}
+{"concept": "linear equation", "domain": "mathematics", "definition": "A linear equation has variables raised only to the first power.", "source": "klyor_foundation"}
+{"concept": "quadratic equation", "domain": "mathematics", "definition": "A quadratic equation commonly has the form ax² + bx + c = 0 with a ≠ 0.", "source": "klyor_foundation"}
+{"concept": "polynomial", "domain": "mathematics", "definition": "A polynomial is an expression formed from variables and coefficients using non-negative integer powers.", "source": "klyor_foundation"}
+{"concept": "factor", "domain": "mathematics", "definition": "A factor is a quantity that divides another quantity exactly.", "source": "klyor_foundation"}
+{"concept": "multiple", "domain": "mathematics", "definition": "A multiple is the result of multiplying a number by an integer.", "source": "klyor_foundation"}
+{"concept": "prime number", "domain": "mathematics", "definition": "A prime number greater than 1 has exactly two positive divisors: 1 and itself.", "source": "klyor_foundation"}
+{"concept": "composite number", "domain": "mathematics", "definition": "A composite number greater than 1 has more than two positive divisors.", "source": "klyor_foundation"}
+{"concept": "GCD", "domain": "mathematics", "definition": "The greatest common divisor is the largest positive integer that divides two or more integers.", "source": "klyor_foundation"}
+{"concept": "LCM", "domain": "mathematics", "definition": "The least common multiple is the smallest positive integer that is a multiple of two or more integers.", "source": "klyor_foundation"}
+{"concept": "modulo", "domain": "mathematics", "definition": "Modulo gives the remainder after integer division.", "source": "klyor_foundation"}
+{"concept": "exponent", "domain": "mathematics", "definition": "An exponent indicates repeated multiplication of a base.", "source": "klyor_foundation"}
+{"concept": "square root", "domain": "mathematics", "definition": "A square root of x is a number whose square equals x.", "source": "klyor_foundation"}
+{"concept": "logarithm", "domain": "mathematics", "definition": "A logarithm determines the exponent required to produce a number from a given base.", "source": "klyor_foundation"}
+{"concept": "function", "domain": "mathematics", "definition": "A function maps each allowed input to exactly one output.", "source": "klyor_foundation"}
+{"concept": "domain", "domain": "mathematics", "definition": "The domain of a function is the set of allowed inputs.", "source": "klyor_foundation"}
+{"concept": "range", "domain": "mathematics", "definition": "The range of a function is the set of outputs it produces.", "source": "klyor_foundation"}
+{"concept": "coordinate", "domain": "mathematics", "definition": "A coordinate identifies a position using an ordered set of values.", "source": "klyor_foundation"}
+{"concept": "slope", "domain": "mathematics", "definition": "Slope measures the rate at which one quantity changes relative to another.", "source": "klyor_foundation"}
+{"concept": "vector", "domain": "mathematics", "definition": "A vector has magnitude and direction.", "source": "klyor_foundation"}
+{"concept": "matrix", "domain": "mathematics", "definition": "A matrix is a rectangular arrangement of numbers or other values.", "source": "klyor_foundation"}
+{"concept": "set", "domain": "mathematics", "definition": "A set is a collection of distinct objects considered as a whole.", "source": "klyor_foundation"}
+{"concept": "union", "domain": "mathematics", "definition": "The union of sets contains elements belonging to at least one of the sets.", "source": "klyor_foundation"}
+{"concept": "intersection", "domain": "mathematics", "definition": "The intersection of sets contains elements common to all of the sets.", "source": "klyor_foundation"}
+{"concept": "probability", "domain": "mathematics", "definition": "Probability measures how likely an event is, commonly from 0 to 1.", "source": "klyor_foundation"}
+{"concept": "mean", "domain": "mathematics", "definition": "The arithmetic mean is the sum of values divided by the number of values.", "source": "klyor_foundation"}
+{"concept": "median", "domain": "mathematics", "definition": "The median is the middle value after ordered data is considered.", "source": "klyor_foundation"}
+{"concept": "mode", "domain": "mathematics", "definition": "The mode is the value occurring most frequently in a dataset.", "source": "klyor_foundation"}
+{"concept": "variance", "domain": "mathematics", "definition": "Variance measures the average squared deviation from the mean.", "source": "klyor_foundation"}
+{"concept": "standard deviation", "domain": "mathematics", "definition": "Standard deviation measures the typical spread of values around the mean.", "source": "klyor_foundation"}
+{"concept": "limit", "domain": "mathematics", "definition": "A limit describes the value a function or sequence approaches.", "source": "klyor_foundation"}
+{"concept": "derivative", "domain": "mathematics", "definition": "A derivative measures the instantaneous rate of change of a function.", "source": "klyor_foundation"}
+{"concept": "integral", "domain": "mathematics", "definition": "An integral represents accumulation and can be used to find areas and antiderivatives.", "source": "klyor_foundation"}
+{"concept": "calculus", "domain": "mathematics", "definition": "Calculus studies change, limits, derivatives, integrals, and accumulation.", "source": "klyor_foundation"}
+{"concept": "trigonometry", "domain": "mathematics", "definition": "Trigonometry studies relationships between angles and sides, especially in triangles.", "source": "klyor_foundation"}
+{"concept": "sine", "domain": "mathematics", "definition": "Sine is a trigonometric function relating an angle to a ratio of sides.", "source": "klyor_foundation"}
+{"concept": "cosine", "domain": "mathematics", "definition": "Cosine is a trigonometric function relating an angle to a ratio of sides.", "source": "klyor_foundation"}
+{"concept": "tangent", "domain": "mathematics", "definition": "Tangent is a trigonometric function equal to sine divided by cosine where defined.", "source": "klyor_foundation"}
+{"concept": "pi", "domain": "mathematics", "definition": "Pi is the ratio of a circle's circumference to its diameter and is approximately 3.14159.", "source": "klyor_foundation"}
+{"concept": "perimeter", "domain": "mathematics", "definition": "Perimeter is the total distance around a two-dimensional shape.", "source": "klyor_foundation"}
+{"concept": "area", "domain": "mathematics", "definition": "Area measures the amount of two-dimensional space inside a boundary.", "source": "klyor_foundation"}
+{"concept": "volume", "domain": "mathematics", "definition": "Volume measures the amount of three-dimensional space occupied by an object.", "source": "klyor_foundation"}
+{"concept": "geometry", "domain": "mathematics", "definition": "Geometry studies shapes, sizes, positions, distances, and spatial relationships.", "source": "klyor_foundation"}
+{"concept": "statistics", "domain": "mathematics", "definition": "Statistics concerns collecting, analyzing, interpreting, and presenting data.", "source": "klyor_foundation"}
+{"concept": "logic", "domain": "mathematics", "definition": "Mathematical logic studies valid reasoning and formal statements.", "source": "klyor_foundation"}

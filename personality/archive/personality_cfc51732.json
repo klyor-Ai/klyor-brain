@@ -1,0 +1,15 @@
+{
+  "id": "personality_cfc51732",
+  "generation": 12,
+  "traits": {
+    "conciseness": 0.556,
+    "curiosity": 0.809,
+    "patience": 0.922,
+    "confidence": 1.0,
+    "technical_detail": 0.453,
+    "creativity": 0.722
+  },
+  "score": 0.915,
+  "evaluations": 1,
+  "status": "archived"
+}

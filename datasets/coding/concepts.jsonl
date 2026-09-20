@@ -1,0 +1,39 @@
+{"concept": "variable", "domain": "programming", "definition": "A variable stores or refers to a value that a program can use.", "source": "klyor_foundation"}
+{"concept": "data type", "domain": "programming", "definition": "A data type describes the kind of value represented by data.", "source": "klyor_foundation"}
+{"concept": "string", "domain": "programming", "definition": "A string is a sequence of text characters.", "source": "klyor_foundation"}
+{"concept": "integer programming", "domain": "programming", "definition": "Integers represent whole-number values in programming.", "source": "klyor_foundation"}
+{"concept": "boolean", "domain": "programming", "definition": "A boolean represents a logical true or false value.", "source": "klyor_foundation"}
+{"concept": "array", "domain": "programming", "definition": "An array is an ordered collection of values accessed by position.", "source": "klyor_foundation"}
+{"concept": "list", "domain": "programming", "definition": "A list is an ordered collection that can contain multiple values.", "source": "klyor_foundation"}
+{"concept": "object", "domain": "programming", "definition": "An object groups data and behavior or represents a structured value.", "source": "klyor_foundation"}
+{"concept": "dictionary", "domain": "programming", "definition": "A dictionary stores key-value associations.", "source": "klyor_foundation"}
+{"concept": "function", "domain": "programming", "definition": "A function is reusable code that can receive inputs and produce an output or side effect.", "source": "klyor_foundation"}
+{"concept": "parameter", "domain": "programming", "definition": "A parameter is a named input defined by a function.", "source": "klyor_foundation"}
+{"concept": "argument", "domain": "programming", "definition": "An argument is a value supplied when calling a function.", "source": "klyor_foundation"}
+{"concept": "condition", "domain": "programming", "definition": "A condition is an expression evaluated to decide which code path should execute.", "source": "klyor_foundation"}
+{"concept": "if statement", "domain": "programming", "definition": "An if statement executes code when a condition is true.", "source": "klyor_foundation"}
+{"concept": "loop", "domain": "programming", "definition": "A loop repeatedly executes a block of code.", "source": "klyor_foundation"}
+{"concept": "for loop", "domain": "programming", "definition": "A for loop commonly iterates through items or a sequence.", "source": "klyor_foundation"}
+{"concept": "while loop", "domain": "programming", "definition": "A while loop repeats while a condition remains true.", "source": "klyor_foundation"}
+{"concept": "class", "domain": "programming", "definition": "A class defines a structure from which objects can be created.", "source": "klyor_foundation"}
+{"concept": "inheritance", "domain": "programming", "definition": "Inheritance allows one class or type to derive behavior or structure from another.", "source": "klyor_foundation"}
+{"concept": "exception", "domain": "programming", "definition": "An exception represents an error or unusual condition that interrupts normal execution.", "source": "klyor_foundation"}
+{"concept": "debugging", "domain": "programming", "definition": "Debugging is the process of locating and fixing software problems.", "source": "klyor_foundation"}
+{"concept": "algorithm", "domain": "programming", "definition": "An algorithm is a defined sequence of steps for solving a problem.", "source": "klyor_foundation"}
+{"concept": "data structure", "domain": "programming", "definition": "A data structure organizes data to support efficient operations.", "source": "klyor_foundation"}
+{"concept": "recursion", "domain": "programming", "definition": "Recursion occurs when a function directly or indirectly calls itself.", "source": "klyor_foundation"}
+{"concept": "API", "domain": "programming", "definition": "An API defines how software components communicate.", "source": "klyor_foundation"}
+{"concept": "HTTP request", "domain": "programming", "definition": "An HTTP request asks a server to perform an operation or return a resource.", "source": "klyor_foundation"}
+{"concept": "JSON", "domain": "programming", "definition": "JSON represents structured data using objects, arrays, strings, numbers, booleans, and null.", "source": "klyor_foundation"}
+{"concept": "frontend", "domain": "programming", "definition": "Frontend code runs in or controls the user-facing part of an application.", "source": "klyor_foundation"}
+{"concept": "backend", "domain": "programming", "definition": "Backend code handles server-side logic, data, APIs, authentication, and other services.", "source": "klyor_foundation"}
+{"concept": "HTML", "domain": "programming", "definition": "HTML structures content on a webpage.", "source": "klyor_foundation"}
+{"concept": "CSS", "domain": "programming", "definition": "CSS controls the presentation and layout of HTML content.", "source": "klyor_foundation"}
+{"concept": "JavaScript", "domain": "programming", "definition": "JavaScript is a programming language commonly used for interactive web applications.", "source": "klyor_foundation"}
+{"concept": "Python", "domain": "programming", "definition": "Python is a general-purpose programming language known for readable syntax and a large ecosystem.", "source": "klyor_foundation"}
+{"concept": "SQL", "domain": "programming", "definition": "SQL is used to query and manipulate relational database data.", "source": "klyor_foundation"}
+{"concept": "Git", "domain": "programming", "definition": "Git is a distributed version control system used to track changes to files.", "source": "klyor_foundation"}
+{"concept": "testing", "domain": "programming", "definition": "Software testing checks whether software behaves according to requirements.", "source": "klyor_foundation"}
+{"concept": "unit test", "domain": "programming", "definition": "A unit test checks a small isolated part of a program.", "source": "klyor_foundation"}
+{"concept": "integration test", "domain": "programming", "definition": "An integration test checks how multiple components work together.", "source": "klyor_foundation"}
+{"concept": "complexity", "domain": "programming", "definition": "Algorithmic complexity describes how resource usage changes as input size grows.", "source": "klyor_foundation"}

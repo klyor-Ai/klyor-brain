@@ -1,0 +1,15 @@
+{
+  "id": "personality_db520e20",
+  "generation": 138,
+  "traits": {
+    "conciseness": 0.553,
+    "curiosity": 1.0,
+    "patience": 1.0,
+    "confidence": 1.0,
+    "technical_detail": 0.55,
+    "creativity": 0.701
+  },
+  "score": 0.93,
+  "evaluations": 1,
+  "status": "archived"
+}

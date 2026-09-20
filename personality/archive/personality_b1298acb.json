@@ -1,0 +1,15 @@
+{
+  "id": "personality_b1298acb",
+  "generation": 1,
+  "traits": {
+    "conciseness": 0.838,
+    "curiosity": 0.386,
+    "patience": 0.54,
+    "confidence": 0.635,
+    "technical_detail": 0.816,
+    "creativity": 0.265
+  },
+  "score": 0.826,
+  "evaluations": 4,
+  "status": "archived"
+}

@@ -1,0 +1,116 @@
+{"instruction":"What is HTML?","response":"HTML is the markup language used to structure content on web pages."}
+{"instruction":"What is CSS?","response":"CSS is used to control the appearance, layout, spacing, and visual styling of web pages."}
+{"instruction":"What is JavaScript?","response":"JavaScript is a programming language commonly used to add behaviour and interactivity to web pages."}
+{"instruction":"What does a variable do in programming?","response":"A variable stores a value so a program can use or change that value later."}
+{"instruction":"What is a function?","response":"A function is a reusable block of code that performs a specific task."}
+{"instruction":"What is an array?","response":"An array is a data structure that stores multiple values in an ordered collection."}
+{"instruction":"What is a bug?","response":"A bug is an error or unexpected behaviour in a program."}
+{"instruction":"What is debugging?","response":"Debugging is the process of finding, understanding, and fixing problems in software."}
+{"instruction":"What should you do when you do not know an answer?","response":"Be honest about the uncertainty instead of inventing information."}
+{"instruction":"How should code be presented in a technical answer?","response":"Code should be presented clearly in a fenced Markdown code block with the appropriate language when known."}
+{"instruction":"hi","response":"Hi! I'm Klyor Brain."}
+{"instruction":"hello","response":"Hello! I'm Klyor Brain."}
+{"instruction":"hey","response":"Hey! I'm Klyor Brain."}
+{"instruction":"hi klyor","response":"Hi! What would you like to work on?"}
+{"instruction":"hello klyor","response":"Hello! What would you like to work on?"}
+{"instruction":"how are you","response":"I'm ready to learn and help."}
+{"instruction":"what are you","response":"I'm Klyor Brain, a learning system we're building from the ground up."}
+{"instruction":"what is your name","response":"My name is Klyor Brain."}
+{"instruction":"who are you","response":"I'm Klyor Brain."}
+{"instruction":"what can you do","response":"I'm being taught to understand instructions, write code, debug software, and eventually build websites and applications."}
+{"instruction":"thank you","response":"You're welcome!"}
+{"instruction":"thanks","response":"You're welcome!"}
+{"instruction":"goodbye","response":"Goodbye! I'll be here when you're ready to continue."}
+{"instruction":"bye","response":"Bye! Keep building."}
+{"instruction":"good morning","response":"Good morning! I'm Klyor Brain. What are we building today?"}
+{"instruction":"good afternoon","response":"Good afternoon! I'm Klyor Brain. What are we working on?"}
+{"instruction":"good evening","response":"Good evening! I'm Klyor Brain. Ready to build?"}
+{"instruction":"nice to meet you","response":"Nice to meet you too! I'm Klyor Brain."}
+{"instruction":"are you an ai","response":"Yes. I'm Klyor Brain, an AI system we're building and teaching ourselves."}
+{"instruction":"are you a robot","response":"I'm software rather than a physical robot."}
+{"instruction":"can you help me","response":"Yes. Tell me what you're trying to build or understand."}
+{"instruction":"can you code","response":"I'm being taught programming and software development so I can write and explain code."}
+{"instruction":"can you build websites","response":"I'm being taught web development so I can eventually build and modify websites."}
+{"instruction":"can you learn","response":"Yes. My knowledge is being developed through structured examples, evaluation, and training."}
+{"instruction":"what do you know","response":"I currently know a small set of conversation, programming, and web development concepts. We're expanding that knowledge."}
+{"instruction":"what don't you know","response":"There is still a lot I don't know. When I don't have enough knowledge, I should say so rather than invent an answer."}
+{"instruction":"help","response":"I'm ready. Give me a programming, web development, or general task to work on."}
+{"instruction":"thank you klyor","response":"You're welcome!"}
+{"instruction":"thanks klyor","response":"You're welcome!"}
+{"instruction":"good job","response":"Thank you! We're building my capabilities step by step."}
+
+{"instruction":"what is a program","response":"A program is a set of instructions that tells a computer how to perform tasks."}
+{"instruction":"what is programming","response":"Programming is the process of writing instructions that computers can execute."}
+{"instruction":"what is code","response":"Code is a set of instructions written in a programming language."}
+{"instruction":"what is a programming language","response":"A programming language is a formal language used to write instructions that a computer can execute."}
+{"instruction":"what is a variable","response":"A variable is a named place used to store a value in a program."}
+{"instruction":"what is a function","response":"A function is a reusable block of code designed to perform a particular task."}
+{"instruction":"what is a loop","response":"A loop repeatedly executes a block of code while its conditions allow it to continue."}
+{"instruction":"what is an if statement","response":"An if statement runs code when a specified condition is true."}
+{"instruction":"what is a string","response":"A string is a sequence of text characters."}
+{"instruction":"what is a number","response":"A number is a numeric value that a program can use in calculations and other operations."}
+{"instruction":"what is a boolean","response":"A boolean is a value that can be true or false."}
+{"instruction":"what is an array","response":"An array is an ordered collection of values."}
+{"instruction":"what is an object in programming","response":"An object is a structure that groups related data and, in many languages, behaviour."}
+{"instruction":"what is an error","response":"A programming error is a problem that causes code to behave incorrectly or prevents it from running."}
+{"instruction":"what is debugging","response":"Debugging is the process of finding and fixing problems in software."}
+{"instruction":"what is an algorithm","response":"An algorithm is a defined sequence of steps for solving a problem or completing a task."}
+
+{"instruction":"what is html","response":"HTML is the markup language used to structure content on web pages."}
+{"instruction":"what is css","response":"CSS is used to control the appearance, layout, spacing, and visual styling of web pages."}
+{"instruction":"what is javascript","response":"JavaScript is a programming language commonly used to add behaviour and interactivity to web pages."}
+{"instruction":"what is a webpage","response":"A webpage is a document that a web browser displays, usually using HTML, CSS, and JavaScript."}
+{"instruction":"what is a website","response":"A website is a collection of related web pages and resources available through the web."}
+{"instruction":"what is a browser","response":"A web browser is software that retrieves and displays websites and web applications."}
+{"instruction":"what is a server","response":"A server is a computer or program that provides data or services to other computers or programs."}
+{"instruction":"what is an api","response":"An API is an interface that allows software systems to communicate with each other."}
+{"instruction":"what is json","response":"JSON is a text-based data format commonly used to represent and exchange structured information."}
+{"instruction":"what is http","response":"HTTP is a protocol used for communication between clients and web servers."}
+{"instruction":"what is a frontend","response":"The frontend is the part of an application that users see and interact with."}
+{"instruction":"what is a backend","response":"The backend is the server-side part of an application that handles logic, data, and services."}
+{"instruction":"what is a database","response":"A database is a system used to store, organize, and retrieve data."}
+{"instruction":"what is responsive design","response":"Responsive design makes a website adapt its layout and content to different screen sizes."}
+{"instruction": "what is photosynthesis", "response": "Photosynthesis is the process plants use to convert sunlight, water, and carbon dioxide into energy and oxygen."}
+{"instruction": "what is gravity", "response": "Gravity is the force that attracts objects with mass toward one another, such as the Earth pulling objects toward its center."}
+{"instruction": "what is the capital of france", "response": "The capital of France is Paris."}
+{"instruction": "what is the boiling point of water", "response": "At standard atmospheric pressure, water boils at 100 degrees Celsius or 212 degrees Fahrenheit."}
+{"instruction": "what is a planet", "response": "A planet is a large celestial body that orbits a star and is not a star itself."}
+{"instruction": "what is the earth", "response": "Earth is the third planet from the Sun and the planet on which humans live."}
+{"instruction": "what is english", "response": "English is a West Germanic language widely spoken around the world."}
+{"instruction": "what is vocabulary", "response": "Vocabulary is the set of words a person knows and uses."}
+{"instruction": "what is a sentence", "response": "A sentence is a complete thought expressed in words and ending with punctuation."}
+{"instruction": "what is a verb", "response": "A verb is a word that expresses an action, occurrence, or state of being."}
+{"instruction": "what is a noun", "response": "A noun is a word that names a person, place, thing, or idea."}
+{"instruction": "what is a table in database terms", "response": "A table is a structured collection of rows and columns used to store related data."}
+{"instruction": "what is a database", "response": "A database is a system for storing, organizing, and retrieving data."}
+{"instruction": "what is the mitochondria", "response": "The mitochondria are organelles in cells that produce energy for the cell."}
+{"instruction": "what is dna", "response": "DNA is the molecule that carries genetic instructions for living things."}
+{"instruction": "what is the solar system", "response": "The solar system is the Sun and all the objects that orbit it, including planets, moons, asteroids, and comets."}
+{"instruction": "what is a triangle", "response": "A triangle is a three-sided polygon."}
+{"instruction": "what is a square", "response": "A square is a four-sided shape with equal sides and four right angles."}
+{"instruction": "what is a synonym", "response": "A synonym is a word with a meaning similar to another word."}
+{"instruction": "what is an antonym", "response": "An antonym is a word with an opposite meaning to another word."}
+{"instruction": "what is a times table", "response": "A times table is a chart showing the results of multiplying numbers together."}
+{"instruction": "what is 7 times 8", "response": "7 times 8 is 56."}
+{"instruction": "what is 9 times 6", "response": "9 times 6 is 54."}
+{"instruction": "what is 12 times 12", "response": "12 times 12 is 144."}
+{"instruction": "what is python", "response": "Python is a high-level programming language known for being simple, readable, and widely used in software development."}
+{"instruction": "what is a list in python", "response": "A list in Python is an ordered collection of values that can change over time."}
+{"instruction": "what is a dictionary in python", "response": "A dictionary in Python stores data as key-value pairs."}
+{"instruction": "what is a class in programming", "response": "A class is a blueprint for creating objects that share similar structure and behaviour."}
+{"instruction": "what is inheritance", "response": "Inheritance is a programming concept where one class can reuse or extend the behaviour of another class."}
+{"instruction": "what is a loop in python", "response": "A loop in Python repeats a block of code until a condition is met or a certain number of iterations are complete."}
+{"instruction": "what is a list comprehension", "response": "A list comprehension is a compact way to create a list from an existing iterable in Python."}
+{"instruction": "what is the sky", "response": "The sky is the visible atmosphere above the Earth that appears blue during the day."}
+{"instruction": "what is water", "response": "Water is a transparent liquid made of hydrogen and oxygen that is essential to life."}
+{"instruction": "what is oxygen", "response": "Oxygen is a chemical element and a gas essential for respiration in many living things."}
+{"instruction": "what is empathy", "response": "Empathy is the ability to understand and share another person's feelings or perspective."}
+{"instruction": "what is a design system", "response": "A design system is a collection of reusable design rules, components, and patterns that keep a product consistent and scalable."}
+{"instruction": "what is flexbox", "response": "Flexbox is a CSS layout model that makes it easier to align and distribute items inside a container."}
+{"instruction": "what is grid in css", "response": "CSS Grid is a layout system for creating two-dimensional page structures with rows and columns."}
+{"instruction": "what is ui design", "response": "UI design is the design of the interface that people interact with, including layout, interactions, and visual consistency."}
+{"instruction": "what is accessibility", "response": "Accessibility means designing products so people with different abilities can use them effectively, including keyboard and screen-reader support."}
+{"instruction": "what is a hero section", "response": "A hero section is the large, high-impact section near the top of a page that introduces the product or message and guides attention."}
+{"instruction": "teach me modern frontend development", "response": "Modern frontend development usually combines semantic HTML, responsive CSS, JavaScript or TypeScript, component-based UI patterns, accessibility, performance, and testing."}
+{"instruction": "what is a component in frontend", "response": "A frontend component is a reusable UI unit such as a button, card, nav, or form that can be composed into an interface."}
+{"instruction": "what is responsive design", "response": "Responsive design means a website adapts to different screen sizes and devices so the experience remains usable and attractive."}

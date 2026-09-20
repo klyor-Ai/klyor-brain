@@ -1,0 +1,135 @@
+{
+  "generation": 208,
+  "size": 8,
+  "personalities": [
+    {
+      "id": "personality_6de8929d",
+      "generation": 208,
+      "traits": {
+        "conciseness": 0.553,
+        "curiosity": 1.0,
+        "patience": 1.0,
+        "confidence": 1.0,
+        "technical_detail": 0.55,
+        "creativity": 0.75
+      },
+      "score": 0.845,
+      "evaluations": 310,
+      "status": "active"
+    },
+    {
+      "id": "personality_89a2f707",
+      "generation": 208,
+      "traits": {
+        "conciseness": 0.553,
+        "curiosity": 1.0,
+        "patience": 1.0,
+        "confidence": 1.0,
+        "technical_detail": 0.55,
+        "creativity": 0.75
+      },
+      "score": 0.845,
+      "evaluations": 305,
+      "status": "active"
+    },
+    {
+      "id": "personality_f0b91bf0",
+      "generation": 208,
+      "traits": {
+        "conciseness": 0.553,
+        "curiosity": 1.0,
+        "patience": 1.0,
+        "confidence": 1.0,
+        "technical_detail": 0.55,
+        "creativity": 0.75
+      },
+      "score": 0.845,
+      "evaluations": 305,
+      "status": "active"
+    },
+    {
+      "id": "personality_521ec145",
+      "generation": 208,
+      "traits": {
+        "conciseness": 0.553,
+        "curiosity": 1.0,
+        "patience": 1.0,
+        "confidence": 0.918,
+        "technical_detail": 0.55,
+        "creativity": 0.75
+      },
+      "score": 0.845,
+      "evaluations": 1,
+      "status": "active"
+    },
+    {
+      "id": "personality_e7521df5",
+      "generation": 208,
+      "traits": {
+        "conciseness": 0.553,
+        "curiosity": 1.0,
+        "patience": 1.0,
+        "confidence": 1.0,
+        "technical_detail": 0.597,
+        "creativity": 0.75
+      },
+      "score": 0.8443,
+      "evaluations": 1,
+      "status": "active"
+    },
+    {
+      "id": "personality_f2095c4c",
+      "generation": 208,
+      "traits": {
+        "conciseness": 0.553,
+        "curiosity": 1.0,
+        "patience": 1.0,
+        "confidence": 1.0,
+        "technical_detail": 0.55,
+        "creativity": 0.75
+      },
+      "score": 0.845,
+      "evaluations": 1,
+      "status": "active"
+    },
+    {
+      "id": "personality_5ea19395",
+      "generation": 208,
+      "traits": {
+        "conciseness": 0.553,
+        "curiosity": 1.0,
+        "patience": 1.0,
+        "confidence": 1.0,
+        "technical_detail": 0.55,
+        "creativity": 0.75
+      },
+      "score": 0.845,
+      "evaluations": 1,
+      "status": "active"
+    },
+    {
+      "id": "personality_c86a7b7c",
+      "generation": 208,
+      "traits": {
+        "conciseness": 0.553,
+        "curiosity": 1.0,
+        "patience": 1.0,
+        "confidence": 0.953,
+        "technical_detail": 0.55,
+        "creativity": 0.75
+      },
+      "score": 0.845,
+      "evaluations": 1,
+      "status": "active"
+    }
+  ],
+  "history": [
+    {
+      "generation": 208,
+      "best_score": 0.845,
+      "population": 8,
+      "best_personality_id": "personality_6de8929d",
+      "timestamp": 1789923760
+    }
+  ]
+}

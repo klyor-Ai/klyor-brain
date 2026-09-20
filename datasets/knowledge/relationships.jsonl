@@ -1,0 +1,14 @@
+{"from": "derivative", "relation": "related_to", "to": "calculus"}
+{"from": "integral", "relation": "related_to", "to": "calculus"}
+{"from": "velocity", "relation": "related_to", "to": "acceleration"}
+{"from": "force", "relation": "related_to", "to": "mass"}
+{"from": "force", "relation": "related_to", "to": "acceleration"}
+{"from": "DNA", "relation": "related_to", "to": "gene"}
+{"from": "gene", "relation": "related_to", "to": "protein"}
+{"from": "atom", "relation": "related_to", "to": "element"}
+{"from": "HTML", "relation": "related_to", "to": "CSS"}
+{"from": "HTML", "relation": "related_to", "to": "JavaScript"}
+{"from": "frontend", "relation": "communicates_with", "to": "backend"}
+{"from": "API", "relation": "commonly_uses", "to": "HTTP"}
+{"from": "JSON", "relation": "commonly_used_by", "to": "API"}
+{"from": "algorithm", "relation": "implemented_by", "to": "program"}

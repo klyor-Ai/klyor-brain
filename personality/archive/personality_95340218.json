@@ -1,0 +1,15 @@
+{
+  "id": "personality_95340218",
+  "generation": 86,
+  "traits": {
+    "conciseness": 0.553,
+    "curiosity": 1.0,
+    "patience": 0.924,
+    "confidence": 1.0,
+    "technical_detail": 0.55,
+    "creativity": 0.75
+  },
+  "score": 0.9262,
+  "evaluations": 1,
+  "status": "archived"
+}

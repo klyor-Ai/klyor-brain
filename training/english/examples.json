@@ -1,0 +1,142 @@
+[
+  {
+    "category": "english",
+    "topic": "vocabulary",
+    "instruction": "What does the word 'reluctant' mean?",
+    "response": "Reluctant means unwilling or hesitant to do something.",
+    "difficulty": "basic"
+  },
+  {
+    "category": "english",
+    "topic": "vocabulary",
+    "instruction": "What does the word 'accurate' mean?",
+    "response": "Accurate means correct or free from errors.",
+    "difficulty": "basic"
+  },
+  {
+    "category": "english",
+    "topic": "vocabulary",
+    "instruction": "What does the word 'complex' mean?",
+    "response": "Complex means consisting of many connected or complicated parts.",
+    "difficulty": "basic"
+  },
+  {
+    "category": "english",
+    "topic": "synonyms",
+    "instruction": "Give a synonym for 'happy'.",
+    "response": "Possible synonyms include glad, joyful, cheerful, and pleased.",
+    "difficulty": "basic"
+  },
+  {
+    "category": "english",
+    "topic": "antonyms",
+    "instruction": "Give an antonym for 'ancient'.",
+    "response": "A common antonym for ancient is modern.",
+    "difficulty": "basic"
+  },
+  {
+    "category": "english",
+    "topic": "grammar",
+    "instruction": "What is a noun?",
+    "response": "A noun is a word that names a person, place, thing, or idea.",
+    "difficulty": "basic"
+  },
+  {
+    "category": "english",
+    "topic": "grammar",
+    "instruction": "What is a verb?",
+    "response": "A verb describes an action, occurrence, or state of being.",
+    "difficulty": "basic"
+  },
+  {
+    "category": "english",
+    "topic": "grammar",
+    "instruction": "What is an adjective?",
+    "response": "An adjective describes or gives more information about a noun or pronoun.",
+    "difficulty": "basic"
+  },
+  {
+    "category": "english",
+    "topic": "grammar",
+    "instruction": "What is an adverb?",
+    "response": "An adverb commonly modifies a verb, adjective, or another adverb.",
+    "difficulty": "basic"
+  },
+  {
+    "category": "english",
+    "topic": "syntax",
+    "instruction": "Identify the subject in 'The dog chased the ball.'",
+    "response": "The subject is 'The dog'.",
+    "difficulty": "basic"
+  },
+  {
+    "category": "english",
+    "topic": "syntax",
+    "instruction": "Identify the verb in 'The dog chased the ball.'",
+    "response": "The verb is 'chased'.",
+    "difficulty": "basic"
+  },
+  {
+    "category": "english",
+    "topic": "syntax",
+    "instruction": "What is the normal basic word order of an English declarative sentence?",
+    "response": "A common basic pattern is Subject-Verb-Object, such as 'The cat chased the mouse.'",
+    "difficulty": "basic"
+  },
+  {
+    "category": "english",
+    "topic": "punctuation",
+    "instruction": "When should a full stop be used?",
+    "response": "A full stop is normally used at the end of a complete declarative sentence.",
+    "difficulty": "basic"
+  },
+  {
+    "category": "english",
+    "topic": "punctuation",
+    "instruction": "When should a question mark be used?",
+    "response": "A question mark is normally placed at the end of a direct question.",
+    "difficulty": "basic"
+  },
+  {
+    "category": "english",
+    "topic": "spelling",
+    "instruction": "Correct this spelling: 'becuase'.",
+    "response": "The correct spelling is 'because'.",
+    "difficulty": "basic"
+  },
+  {
+    "category": "english",
+    "topic": "spelling",
+    "instruction": "Correct this spelling: 'definately'.",
+    "response": "The correct spelling is 'definitely'.",
+    "difficulty": "basic"
+  },
+  {
+    "category": "english",
+    "topic": "tenses",
+    "instruction": "What is the past tense of 'run'?",
+    "response": "The past tense of 'run' is 'ran'.",
+    "difficulty": "basic"
+  },
+  {
+    "category": "english",
+    "topic": "tenses",
+    "instruction": "What is the past tense of 'go'?",
+    "response": "The past tense of 'go' is 'went'.",
+    "difficulty": "basic"
+  },
+  {
+    "category": "english",
+    "topic": "sentence_correction",
+    "instruction": "Correct this sentence: 'He don't like apples.'",
+    "response": "The corrected sentence is: 'He doesn't like apples.'",
+    "difficulty": "basic"
+  },
+  {
+    "category": "english",
+    "topic": "sentence_correction",
+    "instruction": "Correct this sentence: 'They was late.'",
+    "response": "The corrected sentence is: 'They were late.'",
+    "difficulty": "basic"
+  }
+]

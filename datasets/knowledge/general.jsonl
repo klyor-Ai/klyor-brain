@@ -1,0 +1,22 @@
+{"concept": "computer", "domain": "general", "definition": "A computer is an electronic machine that processes data according to instructions.", "source": "klyor_foundation"}
+{"concept": "internet", "domain": "general", "definition": "The Internet is a global network of interconnected computer networks.", "source": "klyor_foundation"}
+{"concept": "algorithm", "domain": "general", "definition": "An algorithm is a finite sequence of steps used to solve a problem or perform a task.", "source": "klyor_foundation"}
+{"concept": "data", "domain": "general", "definition": "Data is information represented in a form that can be stored, processed, or transmitted.", "source": "klyor_foundation"}
+{"concept": "information", "domain": "general", "definition": "Information is data interpreted in a meaningful context.", "source": "klyor_foundation"}
+{"concept": "database", "domain": "general", "definition": "A database is an organized collection of data that can be stored, queried, and modified.", "source": "klyor_foundation"}
+{"concept": "server", "domain": "general", "definition": "A server is a computer or software system that provides services or resources to other computers.", "source": "klyor_foundation"}
+{"concept": "client", "domain": "general", "definition": "A client is a computer or application that requests services from a server.", "source": "klyor_foundation"}
+{"concept": "operating system", "domain": "general", "definition": "An operating system manages computer hardware, software resources, files, and processes.", "source": "klyor_foundation"}
+{"concept": "file system", "domain": "general", "definition": "A file system organizes and manages files and directories on storage.", "source": "klyor_foundation"}
+{"concept": "memory", "domain": "general", "definition": "Computer memory stores information for active processing or longer-term storage.", "source": "klyor_foundation"}
+{"concept": "CPU", "domain": "general", "definition": "A CPU executes instructions and performs calculations required by computer programs.", "source": "klyor_foundation"}
+{"concept": "GPU", "domain": "general", "definition": "A GPU is a processor specialized for highly parallel computations, especially graphics and machine learning.", "source": "klyor_foundation"}
+{"concept": "RAM", "domain": "general", "definition": "RAM is fast volatile memory used to hold data and programs currently being used.", "source": "klyor_foundation"}
+{"concept": "binary", "domain": "general", "definition": "Binary is a base-2 number system using the digits 0 and 1.", "source": "klyor_foundation"}
+{"concept": "hexadecimal", "domain": "general", "definition": "Hexadecimal is a base-16 number system using 0-9 and A-F.", "source": "klyor_foundation"}
+{"concept": "API", "domain": "general", "definition": "An API is an interface that allows software systems to communicate using defined operations and data formats.", "source": "klyor_foundation"}
+{"concept": "JSON", "domain": "general", "definition": "JSON is a text-based data format commonly used to exchange structured information.", "source": "klyor_foundation"}
+{"concept": "HTTP", "domain": "general", "definition": "HTTP is a protocol used to transfer resources and messages between clients and servers.", "source": "klyor_foundation"}
+{"concept": "software", "domain": "general", "definition": "Software is a collection of instructions and data that tells a computer how to perform tasks.", "source": "klyor_foundation"}
+{"concept": "quantum computer", "domain": "technology", "definition": "A quantum computer is a computer that uses quantum-mechanical phenomena to process information. Instead of using only ordinary classical bits, quantum computers use quantum bits, or qubits, which can represent quantum states.", "source": "klyor_foundation"}
+{"concept": "qubit", "domain": "technology", "definition": "A qubit, or quantum bit, is the basic unit of quantum information. It can exist in a quantum state that combines the classical possibilities of zero and one.", "source": "klyor_foundation"}

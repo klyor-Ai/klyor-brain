@@ -1,0 +1,15 @@
+{
+  "id": "personality_06870bc9",
+  "generation": 24,
+  "traits": {
+    "conciseness": 0.523,
+    "curiosity": 1.0,
+    "patience": 0.943,
+    "confidence": 1.0,
+    "technical_detail": 0.55,
+    "creativity": 0.607
+  },
+  "score": 0.9267,
+  "evaluations": 1,
+  "status": "archived"
+}

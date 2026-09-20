@@ -1,0 +1,15 @@
+{
+  "id": "personality_254dc648",
+  "generation": 111,
+  "traits": {
+    "conciseness": 0.553,
+    "curiosity": 1.0,
+    "patience": 0.888,
+    "confidence": 1.0,
+    "technical_detail": 0.55,
+    "creativity": 0.75
+  },
+  "score": 0.9244,
+  "evaluations": 1,
+  "status": "archived"
+}

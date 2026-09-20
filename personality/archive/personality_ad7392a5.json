@@ -1,0 +1,15 @@
+{
+  "id": "personality_ad7392a5",
+  "generation": 131,
+  "traits": {
+    "conciseness": 0.616,
+    "curiosity": 1.0,
+    "patience": 1.0,
+    "confidence": 1.0,
+    "technical_detail": 0.55,
+    "creativity": 0.75
+  },
+  "score": 0.929,
+  "evaluations": 1,
+  "status": "archived"
+}

@@ -1,0 +1,10 @@
+{"language": "python", "concept": "function", "syntax": "def name(parameters):", "example": "def greet(name):\n    return f'Hello {name}'", "explanation": "Defines a reusable Python function."}
+{"language": "python", "concept": "condition", "syntax": "if condition:", "example": "if age >= 18:\n    print('Adult')", "explanation": "Runs a block when the condition is true."}
+{"language": "python", "concept": "loop", "syntax": "for item in collection:", "example": "for item in items:\n    print(item)", "explanation": "Iterates through values."}
+{"language": "python", "concept": "class", "syntax": "class Name:", "example": "class Player:\n    def __init__(self, name):\n        self.name = name", "explanation": "Defines a Python class."}
+{"language": "javascript", "concept": "function", "syntax": "function name(parameters) {}", "example": "function greet(name) {\n  return `Hello ${name}`;\n}", "explanation": "Defines a JavaScript function."}
+{"language": "javascript", "concept": "condition", "syntax": "if (condition) {}", "example": "if (age >= 18) {\n  console.log('Adult');\n}", "explanation": "Runs a block when a condition is true."}
+{"language": "javascript", "concept": "loop", "syntax": "for (const item of collection) {}", "example": "for (const item of items) {\n  console.log(item);\n}", "explanation": "Iterates over iterable values."}
+{"language": "html", "concept": "element", "syntax": "<tag>content</tag>", "example": "<h1>Hello</h1>", "explanation": "HTML elements structure webpage content."}
+{"language": "css", "concept": "selector", "syntax": "selector { property: value; }", "example": "button {\n  padding: 12px;\n}", "explanation": "CSS rules apply styles to selected elements."}
+{"language": "sql", "concept": "select", "syntax": "SELECT columns FROM table;", "example": "SELECT name FROM users;", "explanation": "Retrieves selected columns from a table."}

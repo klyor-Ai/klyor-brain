@@ -1,0 +1,15 @@
+{
+  "id": "personality_df9a547f",
+  "generation": 66,
+  "traits": {
+    "conciseness": 0.553,
+    "curiosity": 1.0,
+    "patience": 1.0,
+    "confidence": 1.0,
+    "technical_detail": 0.55,
+    "creativity": 0.68
+  },
+  "score": 0.93,
+  "evaluations": 1,
+  "status": "archived"
+}

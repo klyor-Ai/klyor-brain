@@ -29,7 +29,7 @@ Base model
 
 ## Initial base model
 
-Qwen3-Coder family.
+Klyor Brain's own learning system.
 
 The model itself is not trained from scratch.
 

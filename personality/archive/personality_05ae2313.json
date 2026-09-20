@@ -1,0 +1,15 @@
+{
+  "id": "personality_05ae2313",
+  "generation": 31,
+  "traits": {
+    "conciseness": 0.523,
+    "curiosity": 1.0,
+    "patience": 0.885,
+    "confidence": 1.0,
+    "technical_detail": 0.55,
+    "creativity": 0.732
+  },
+  "score": 0.9238,
+  "evaluations": 1,
+  "status": "archived"
+}

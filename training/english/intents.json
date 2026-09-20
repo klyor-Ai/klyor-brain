@@ -1,0 +1,129 @@
+[
+  {
+    "intent": "question_definition",
+    "examples": [
+      "what is {topic}",
+      "what's {topic}",
+      "whats {topic}",
+      "wht is {topic}",
+      "wut is {topic}",
+      "what are {topic}",
+      "what r {topic}",
+      "tell me what {topic} is",
+      "can you explain {topic}"
+    ]
+  },
+  {
+    "intent": "question_identity",
+    "examples": [
+      "who is {topic}",
+      "who's {topic}",
+      "whos {topic}",
+      "who are {topic}",
+      "tell me about {topic}"
+    ]
+  },
+  {
+    "intent": "question_time",
+    "examples": [
+      "when is {topic}",
+      "when was {topic}",
+      "when did {topic} happen",
+      "what time is {topic}"
+    ]
+  },
+  {
+    "intent": "question_location",
+    "examples": [
+      "where is {topic}",
+      "where are {topic}",
+      "wheres {topic}",
+      "where can I find {topic}"
+    ]
+  },
+  {
+    "intent": "question_reason",
+    "examples": [
+      "why is {topic}",
+      "why are {topic}",
+      "why does {topic}",
+      "why do {topic}",
+      "why did {topic}"
+    ]
+  },
+  {
+    "intent": "question_method",
+    "examples": [
+      "how does {topic} work",
+      "how do I {topic}",
+      "how can I {topic}",
+      "how to {topic}",
+      "how is {topic} made"
+    ]
+  },
+  {
+    "intent": "question_choice",
+    "examples": [
+      "which {topic}",
+      "which one is {topic}",
+      "what should I choose",
+      "which should I use"
+    ]
+  },
+  {
+    "intent": "request_help",
+    "examples": [
+      "can you help me",
+      "can u help me",
+      "could you help me",
+      "could u help me",
+      "would you help me",
+      "please help me",
+      "pls help me",
+      "help me"
+    ]
+  },
+  {
+    "intent": "request_explanation",
+    "examples": [
+      "explain {topic}",
+      "explain {topic} to me",
+      "can you explain {topic}",
+      "can u explain {topic}",
+      "could you explain {topic}",
+      "tell me about {topic}"
+    ]
+  },
+  {
+    "intent": "request_action",
+    "examples": [
+      "do {topic}",
+      "make {topic}",
+      "create {topic}",
+      "build {topic}",
+      "write {topic}",
+      "fix {topic}"
+    ]
+  },
+  {
+    "intent": "greeting",
+    "examples": [
+      "hi",
+      "hello",
+      "hey",
+      "hiya",
+      "yo",
+      "sup"
+    ]
+  },
+  {
+    "intent": "thanks",
+    "examples": [
+      "thanks",
+      "thank you",
+      "thx",
+      "ty",
+      "cheers"
+    ]
+  }
+]

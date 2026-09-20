@@ -1,0 +1,15 @@
+{
+  "id": "personality_cffbdf57",
+  "generation": 5,
+  "traits": {
+    "conciseness": 0.497,
+    "curiosity": 0.89,
+    "patience": 0.592,
+    "confidence": 0.841,
+    "technical_detail": 0.453,
+    "creativity": 0.796
+  },
+  "score": 0.9034,
+  "evaluations": 1,
+  "status": "archived"
+}

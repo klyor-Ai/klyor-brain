@@ -1,0 +1,15 @@
+{
+  "id": "personality_f3395b28",
+  "generation": 14,
+  "traits": {
+    "conciseness": 0.482,
+    "curiosity": 0.946,
+    "patience": 0.922,
+    "confidence": 0.998,
+    "technical_detail": 0.453,
+    "creativity": 0.722
+  },
+  "score": 0.923,
+  "evaluations": 1,
+  "status": "archived"
+}

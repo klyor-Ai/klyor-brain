@@ -1,0 +1,15 @@
+{
+  "id": "personality_7507dd84",
+  "generation": 64,
+  "traits": {
+    "conciseness": 0.553,
+    "curiosity": 1.0,
+    "patience": 1.0,
+    "confidence": 0.877,
+    "technical_detail": 0.55,
+    "creativity": 0.75
+  },
+  "score": 0.93,
+  "evaluations": 1,
+  "status": "archived"
+}

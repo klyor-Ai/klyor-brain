@@ -1,0 +1,18 @@
+{
+  "type": "coding_answer",
+  "schema": {
+    "language": "string",
+    "explanation": "string",
+    "code": "string",
+    "notes": [
+      "string"
+    ],
+    "warnings": [
+      "string"
+    ]
+  },
+  "rendering": {
+    "code_blocks": "Use fenced Markdown code blocks with the exact language identifier.",
+    "example": "```python\\nprint('Hello')\\n```"
+  }
+}

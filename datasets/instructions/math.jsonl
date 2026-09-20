@@ -1,0 +1,51 @@
+{"instruction":"what is mathematics","response":"Mathematics is the study of numbers, quantities, structures, patterns, relationships, and logical reasoning."}
+{"instruction":"what is arithmetic","response":"Arithmetic is the study and use of basic operations such as addition, subtraction, multiplication, and division."}
+{"instruction":"what is addition","response":"Addition combines numbers to find their total."}
+{"instruction":"what is subtraction","response":"Subtraction finds the difference between numbers."}
+{"instruction":"what is multiplication","response":"Multiplication is repeated addition and can be used to find the total of equal groups."}
+{"instruction":"what is division","response":"Division splits a quantity into equal groups or determines how many times one number fits into another."}
+{"instruction":"what is a negative number","response":"A negative number is a number less than zero."}
+{"instruction":"what is zero","response":"Zero represents no quantity and is neither positive nor negative."}
+{"instruction":"what is a fraction","response":"A fraction represents part of a whole using a numerator and denominator."}
+{"instruction":"what is a numerator","response":"The numerator is the top number of a fraction and represents the selected number of parts."}
+{"instruction":"what is a denominator","response":"The denominator is the bottom number of a fraction and represents the total number of equal parts."}
+{"instruction":"what is a decimal","response":"A decimal represents a number using a decimal point and place values based on powers of ten."}
+{"instruction":"what is a percentage","response":"A percentage represents a value as a fraction of one hundred."}
+{"instruction":"what is a ratio","response":"A ratio compares two quantities by describing how much of one quantity exists relative to another."}
+{"instruction":"what is order of operations","response":"Order of operations is the convention for deciding which mathematical operations are performed first, commonly parentheses, exponents, multiplication and division, then addition and subtraction."}
+{"instruction":"what is algebra","response":"Algebra uses symbols and rules to represent quantities and relationships and solve unknown values."}
+{"instruction":"what is a variable in math","response":"A mathematical variable is a symbol that represents a value that may be unknown or change."}
+{"instruction":"what is an equation","response":"An equation states that two mathematical expressions have equal values."}
+{"instruction":"what is an inequality","response":"An inequality compares values using symbols such as less than, greater than, less than or equal to, or greater than or equal to."}
+{"instruction":"what is an exponent","response":"An exponent indicates how many times a number is multiplied by itself."}
+{"instruction":"what is a square","response":"The square of a number is that number multiplied by itself."}
+{"instruction":"what is a square root","response":"A square root of a number is a value that produces the original number when multiplied by itself."}
+{"instruction":"what is a prime number","response":"A prime number is a whole number greater than one with exactly two positive factors: one and itself."}
+{"instruction":"what is a factor","response":"A factor is a number that divides another number evenly."}
+{"instruction":"what is a multiple","response":"A multiple is a number produced by multiplying another number by an integer."}
+{"instruction":"what is a coordinate","response":"A coordinate identifies a position using numbers, such as an x-value and y-value on a two-dimensional plane."}
+{"instruction":"what is the coordinate plane","response":"The coordinate plane is a two-dimensional system formed by a horizontal x-axis and vertical y-axis."}
+{"instruction":"what is a function in math","response":"A mathematical function maps inputs to outputs according to a defined rule, with each valid input having one corresponding output."}
+{"instruction":"what is a graph in math","response":"A mathematical graph visually represents relationships between values or data."}
+{"instruction":"what is geometry","response":"Geometry is the branch of mathematics that studies shapes, sizes, positions, distances, angles, and spatial relationships."}
+{"instruction":"what is the area of a rectangle","response":"The area of a rectangle is its length multiplied by its width."}
+{"instruction":"what is the perimeter of a rectangle","response":"The perimeter of a rectangle is twice its length plus twice its width."}
+{"instruction":"what is the area of a triangle","response":"The area of a triangle is one half multiplied by its base and height."}
+{"instruction":"what is a circle","response":"A circle is a shape whose points are all the same distance from a central point."}
+{"instruction":"what is pi","response":"Pi is the mathematical constant representing the ratio of a circle's circumference to its diameter, approximately 3.14159."}
+{"instruction":"what is probability","response":"Probability measures how likely an event is to happen, usually from 0 for impossible to 1 for certain."}
+{"instruction":"what is statistics","response":"Statistics is the study of collecting, analyzing, interpreting, and presenting data."}
+{"instruction":"what is an average","response":"The arithmetic mean, commonly called the average, is found by adding values and dividing their total by the number of values."}
+{"instruction":"what is a median","response":"The median is the middle value of an ordered dataset, or the mean of the two middle values when there is an even number of values."}
+{"instruction":"what is a mode","response":"The mode is the value that occurs most frequently in a dataset."}
+{"instruction":"what is binary","response":"Binary is a base-2 number system that uses only the digits 0 and 1."}
+{"instruction":"what is hexadecimal","response":"Hexadecimal is a base-16 number system using digits 0 through 9 and letters A through F."}
+{"instruction":"why is math important in programming","response":"Math is important in programming for calculations, algorithms, coordinates, graphics, physics, statistics, optimization, data processing, and logical reasoning."}
+{"instruction":"what is modulo","response":"Modulo gives the remainder left after one integer is divided by another."}
+{"instruction":"what is an integer","response":"An integer is a whole number that can be positive, negative, or zero."}
+{"instruction":"what is a real number","response":"A real number is any number that can be represented on the continuous number line, including rational and irrational numbers."}
+{"instruction":"what is a set","response":"A set is a collection of distinct objects or values considered as a group."}
+{"instruction":"what is logic","response":"Mathematical logic studies valid reasoning using formal statements, relationships, and rules."}
+{"instruction":"what is an AND operation","response":"An AND operation is true when all of its required conditions are true."}
+{"instruction":"what is an OR operation","response":"An OR operation is true when at least one of its conditions is true."}
+{"instruction":"what is a NOT operation","response":"A NOT operation reverses a Boolean value: true becomes false and false becomes true."}

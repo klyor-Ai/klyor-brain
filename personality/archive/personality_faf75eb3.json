@@ -1,0 +1,15 @@
+{
+  "id": "personality_faf75eb3",
+  "generation": 174,
+  "traits": {
+    "conciseness": 0.553,
+    "curiosity": 1.0,
+    "patience": 0.911,
+    "confidence": 1.0,
+    "technical_detail": 0.55,
+    "creativity": 0.75
+  },
+  "score": 0.9255,
+  "evaluations": 3,
+  "status": "archived"
+}

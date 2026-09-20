@@ -1,0 +1,15 @@
+{
+  "id": "personality_fde17b60",
+  "generation": 22,
+  "traits": {
+    "conciseness": 0.475,
+    "curiosity": 1.0,
+    "patience": 0.922,
+    "confidence": 1.0,
+    "technical_detail": 0.55,
+    "creativity": 0.722
+  },
+  "score": 0.925,
+  "evaluations": 1,
+  "status": "archived"
+}

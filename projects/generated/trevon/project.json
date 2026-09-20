@@ -1,0 +1,11 @@
+{
+  "name": "trevon",
+  "slug": "trevon",
+  "project_type": "website",
+  "description": "A modern personal portfolio website.",
+  "files": [
+    "index.html",
+    "styles.css",
+    "script.js"
+  ]
+}
